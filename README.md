@@ -47,6 +47,8 @@ Professional WordPress website developed for a leading CCTV dealer and security 
 
 Open to discussing similar security, surveillance, or service-based WordPress projects!
 
+This Project was developed under the supervision of the Senior Developer @aveshhus
+
 📧 eshbanoliver@gmail.com
 LinkedIn: (https://in.linkedin.com/in/eshban-oliver-757352372)
 Location: Udaipur → Jaipur client project
